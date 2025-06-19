@@ -61,9 +61,9 @@ def calculadora():
             print("Entrada inválida.")
             continue
 
-        # if escolha == "1": 
-        #     res = adicao(n1,n2)
-        #     op = "+"
+        gitif escolha == "1": 
+            res = adicao(n1,n2)
+            op = "+"
 
         # elif escolha == "2":
         #     res = subtracao(n1,n2)
