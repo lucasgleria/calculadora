@@ -1,0 +1,7 @@
+MVC é um padrão de arquitetura (convenção) que baiscamente separa a aplicação em 3 principais partes para organizar o código, facilitar a manutenção e permitir o desenvolvimento paralelo
+
+Model (Dados): Responsável pela lógica de negocios, manipulação de dados e regras de aplicação
+
+View (Interface): Responsável pela interface 
+
+Controller ()Lógica de interação: Responsável por fazer a mediação entre Model e View. Recebe as entradas do usuário (no view), processa essas ações utilizando o model e determina qual view será apresentado.
