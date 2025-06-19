@@ -65,9 +65,9 @@ def calculadora():
         #     res = adicao(n1,n2)
         #     op = "+"
 
-        # elif escolha == "2":
-        #     res = subtracao(n1,n2)
-        #     op = "-"
+        elif escolha == "2":
+            res = subtracao(n1,n2)
+            op = "-"
 
         elif escolha == "3":
             res = multiplicacao(n1,n2)
